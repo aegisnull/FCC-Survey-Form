@@ -1,0 +1,22 @@
+main {
+  margin: 60px;
+}
+
+#title {
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+}
+
+#survey-form {
+  width: 80vw;
+  height: 100vh;
+  margin: auto;
+}
+
+input {
+  display: block;
+  width: 100%;
+}
